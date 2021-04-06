@@ -1,4 +1,6 @@
 # :JEFF: 호영 프로젝트[세상을 다 가져라]
+추가 방법 : git romote add origin https://github.com/sopo9909/hoyoung.git
+           git push -u origin master
 
 ### 목차
 
